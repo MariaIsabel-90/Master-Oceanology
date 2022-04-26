@@ -1,6 +1,6 @@
 ## Master-Oceanology
 
-In this repository I present a summary of the methodology and resultsn from my Masters in Oceanology, as well as the Matlab scripts taken in the University of Rio Grande.
+In this repository I present a summary of the methodology and results from my Masters in Oceanology, as well as the Matlab scripts taken in the University of Rio Grande.
 
 ## Main goal of this work 
 
